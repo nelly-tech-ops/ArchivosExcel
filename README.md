@@ -1,1 +1,3 @@
-Son diferentes archivos en Excel para practicar 
+Archivo 1:  Proyecto Final Curso CODERHOUSE, es una base de datos de IMDb en CSV que fue depurada, se crearon interrogantes, funciones y tablas dinámicas para responderlas y finalmente un               Dashboard con gráficos dinámicos y su respectivo INSIGHT.
+Archivo 2: Control de Vacaciones, elaborado para una clase de la UES, sirve para llevar el control de las salidas y retornos de vacaciones del personal, la disponibilidad de días de                    vacaciones y el recibo de pago, se usan varias fórmulas anidadas.
+Archivo 3: Ponencia para el Maratón de Solidario con la finalidad de recoger fondos a través de la Cruz Roja para los afectados por DANA en España, contiene 03 Bases de Datos modeladas con             Power Pivor, se elaboraron tablas dinámicas y fórmula DAX para crear información relevante plasmada finalmente en un Dashboard.
